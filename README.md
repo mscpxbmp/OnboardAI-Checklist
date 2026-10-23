@@ -27,7 +27,8 @@ Mở `index.html` bằng trình duyệt. Nếu trình duyệt chặn một số 
 - `js/main.js`: dữ liệu mẫu và tương tác
 
 ## Liên kết cần bổ sung trước khi nộp
-- Figma: [Dán link Figma tại đây]
+- Figma: <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/760ad28b-7143-4f34-aa97-51678f548c17" />
+
 - GitHub: [Dán link repository tại đây]
 - Video trình bày: [Dán link video tại đây]
 
