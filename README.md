@@ -29,7 +29,7 @@ Mở `index.html` bằng trình duyệt. Nếu trình duyệt chặn một số 
 ## Liên kết cần bổ sung trước khi nộp
 - Figma: <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/760ad28b-7143-4f34-aa97-51678f548c17" />
 
-- GitHub: [Dán link repository tại đây]
+- GitHub: [[Dán link repository tại đây]](https://github.com/mscpxbmp/OnboardAI-Checklist)
 - Video trình bày: [Dán link video tại đây]
 
 ## Lưu ý
